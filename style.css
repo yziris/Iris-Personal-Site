@@ -219,7 +219,7 @@ body {
     }
     .education.apu {
         display: grid;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 2fr 1fr;
     }
     
     .position {
@@ -234,7 +234,7 @@ body {
         color: #D8D9DA;
     }
         .education img {
-            height: 700px;
+            height: 500px;
             border-radius: 10px;
     
         }
@@ -253,33 +253,7 @@ body {
             font-size: 20px;
         }
     
-    /*footer*/
-    .footer {
-        background-color: #272829;
-        padding: 20px 60px;
-        gap:30px;
-        display: grid;
-        grid-template-columns: 1fr 3fr;
-    }
     
-    .profile {
-        width: 200px;
-        border-radius: 100%;
-    }
-    
-    .profile-container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-    
-    .footer>.contact {
-        grid-column: 2 / 3;
-    }
-    
-    .contact p {
-        font-size: 20px;
-    }
     
     
     /*Responsive Web*/
@@ -375,7 +349,7 @@ body {
             padding-left:0;
         }
     
-        .education.apu {
+        .education.ucl {
         display: grid;
         grid-template-areas:
         "one one"
