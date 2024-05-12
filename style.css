@@ -73,7 +73,7 @@ body {
         }
     
         .btn {
-            display: inline-block;
+            display: inline;
             padding: 10px 20px;
             width: 90px;
             background-color: #D03C38; /* Set your desired background color */
