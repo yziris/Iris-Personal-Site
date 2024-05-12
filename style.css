@@ -217,7 +217,7 @@ body {
     .experience {
         max-height: 100vh;
     }
-    .education.apu {
+    .education.ucl {
         display: grid;
         grid-template-columns: 2fr 1fr;
     }
