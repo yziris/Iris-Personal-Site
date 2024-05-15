@@ -34,7 +34,9 @@ body {
     }
     
     .icon-container {
-        padding-right: 5%;
+        margin-right: 5px;
+        display: flex;
+        justify-content: flex-end;
     }
         .icn-header {
             width:30px;
